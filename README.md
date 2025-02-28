@@ -1,6 +1,5 @@
-## Simple dbt starter project for working with json data coming from commcare and surveycto connectors
+## DBT Code For APD
 
-Models include extract and adding form params, delete duplicates, flattening data json. pivoting the flat json into columns
 
 ## Getting Started
 
@@ -12,7 +11,7 @@ Models include extract and adding form params, delete duplicates, flattening dat
 
 ```
 
-  ddp_dbt_starter:
+  dbt_apd:
    outputs:
 
     dev:
